@@ -283,6 +283,11 @@ const sidebars = {
           label: 'QuickNode',
           href: 'https://www.quicknode.com/docs/gnosis',
         },
+        {
+          type: 'link',
+          label: 'Chainstack',
+          href: 'https://docs.chainstack.com/blockchains/gnosis',
+        },
       ],
     },
     {
